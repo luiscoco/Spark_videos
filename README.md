@@ -29,9 +29,22 @@ Unzip the "spark-3.5.0-bin-hadoop3.tgz"
 
 ![image](https://github.com/luiscoco/Spark_videos/assets/32194879/b86a6bf1-1217-46b1-bc82-ffc584830f1f)
 
-## 5. 
+## 5. Create a new Scala project with IntelliJ
 
-## 5. 
+Run IntelliJ Community and confirm "Scala" plugin is installed
+
+![image](https://github.com/luiscoco/Spark_videos/assets/32194879/b3b48661-b32f-426a-af10-e2312afa3456)
+
+Select "Projects" in the left menu, and then click on the "New Project" button
+
+![image](https://github.com/luiscoco/Spark_videos/assets/32194879/ffe80d72-07af-4e9b-ba30-e48318482982)
+
+
+
+
+## 6.
+
+
 
 
 
