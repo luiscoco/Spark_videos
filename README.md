@@ -91,5 +91,27 @@ We first extends the object from the App
 
 Then we enter the rest of the code
 
+```scala
+package com.luispackage
+
+import org.apache.spark.{SparkConf, SparkContext}
+
+object HelloWorld extends App {
+
+  // Set up Spark configuration
+  private val conf = new SparkConf().setAppName("HelloSpark").setMaster("local[*]")
+
+  // Create a Spark context
+  private val sc = new SparkContext(conf)
+
+  // Actual Spark code here
+  private val helloRDD = sc.parallelize(Seq("Hello", "Spark"))
+  helloRDD.foreach(println)
+
+  // Stop the Spark context
+  sc.stop()
+}
+```
+
 ![image](https://github.com/luiscoco/Spark_videos/assets/32194879/1b6e0fb3-1361-4f59-8aee-fbc05d5f1128)
 
