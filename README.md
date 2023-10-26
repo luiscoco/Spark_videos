@@ -153,7 +153,6 @@ We also create the testFile.txt
 
 Now we run the application
 
-![image](https://github.com/luiscoco/Spark_videos/assets/32194879/9fe626de-4258-4d71-a7d9-9894aec12ba1)
-
 ![image](https://github.com/luiscoco/Spark_videos/assets/32194879/90d02ea7-382b-41ed-a850-5dd6df7143c4)
 
+![image](https://github.com/luiscoco/Spark_videos/assets/32194879/9fe626de-4258-4d71-a7d9-9894aec12ba1)
