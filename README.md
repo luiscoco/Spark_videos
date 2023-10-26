@@ -49,6 +49,20 @@ Then we input the new project data
 
 ## 6. Set the build.sbt file
 
+```
+ThisBuild / version := "0.1.0-SNAPSHOT"
+
+ThisBuild / scalaVersion := "2.12.18"
+
+lazy val root = (project in file("."))
+  .settings(
+    name := "FirstSparkProject"
+  )
+
+// https://mvnrepository.com/artifact/org.apache.spark/spark-core
+libraryDependencies += "org.apache.spark" %% "spark-core" % "3.5.0"
+```
+
 ![image](https://github.com/luiscoco/Spark_videos/assets/32194879/b4b3838e-147a-4111-87df-48c942c79e42)
 
 ![image](https://github.com/luiscoco/Spark_videos/assets/32194879/85117f86-4a8c-4ce6-8683-d241437242b3)
