@@ -16,9 +16,11 @@ Unzip the "spark-3.5.0-bin-hadoop3.tgz"
 
 ![image](https://github.com/luiscoco/Spark_videos/assets/32194879/dd150479-4fb3-4cdf-8fea-e9f030d66c49)
 
-## 4. Install IntelliJ Community Edition
+## 3. Install IntelliJ Community Edition
 
 ![image](https://github.com/luiscoco/Spark_videos/assets/32194879/b86a6bf1-1217-46b1-bc82-ffc584830f1f)
+
+## 4. 
 
 ## 5. 
 
