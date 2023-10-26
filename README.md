@@ -63,9 +63,23 @@ We check the project was reloaded with all the dependencies including the new sp
 
 ![image](https://github.com/luiscoco/Spark_videos/assets/32194879/e0b101de-e575-423e-9d2a-df91ae7db669)
 
+## 7. Create a package and the scala source code file
 
+First we create a new package
 
+![image](https://github.com/luiscoco/Spark_videos/assets/32194879/e675b594-0690-4852-8ec1-8f3c82f889f0)
 
+We set the new package name
 
+![image](https://github.com/luiscoco/Spark_videos/assets/32194879/55749e04-a357-4240-821a-c2fa7a0a2107)
 
+![image](https://github.com/luiscoco/Spark_videos/assets/32194879/8a9ac4a4-c773-4f00-92a2-c9a282c66e20)
+
+We create a new scala Object
+
+![image](https://github.com/luiscoco/Spark_videos/assets/32194879/c28d6a7c-0074-4db1-853a-1287ae59693f)
+
+![image](https://github.com/luiscoco/Spark_videos/assets/32194879/d20c98af-5452-400c-b37d-30681e8ab6ff)
+
+![image](https://github.com/luiscoco/Spark_videos/assets/32194879/8f977ba6-bb0d-41ae-a978-df18d448082a)
 
