@@ -83,3 +83,11 @@ We create a new scala Object
 
 ![image](https://github.com/luiscoco/Spark_videos/assets/32194879/8f977ba6-bb0d-41ae-a978-df18d448082a)
 
+## 8. We enter the spark main file code
+
+We first extends the object from the App
+
+![image](https://github.com/luiscoco/Spark_videos/assets/32194879/441e66da-c5cb-4bac-95c8-0b86842fdfc3)
+
+Then we enter the rest of the code
+
