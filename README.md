@@ -14,13 +14,20 @@ Unzip the "spark-3.5.0-bin-hadoop3.tgz"
 
 ## 2. Set Spark environmental variable
 
-![image](https://github.com/luiscoco/Spark_videos/assets/32194879/dd150479-4fb3-4cdf-8fea-e9f030d66c49)
+![image](https://github.com/luiscoco/Spark_videos/assets/32194879/993e30be-d134-4364-bd56-1135dcf6084a)
 
-## 3. Install IntelliJ Community Edition
+![image](https://github.com/luiscoco/Spark_videos/assets/32194879/17011565-587c-4b1a-98f7-5313cf4b21c2)
+
+## 3. Check the spark-shell is installed
+
+![image](https://github.com/luiscoco/Spark_videos/assets/32194879/e453931d-da41-4204-a750-a8c416121322)
+
+
+## 4. Install IntelliJ Community Edition
 
 ![image](https://github.com/luiscoco/Spark_videos/assets/32194879/b86a6bf1-1217-46b1-bc82-ffc584830f1f)
 
-## 4. 
+## 5. 
 
 ## 5. 
 
