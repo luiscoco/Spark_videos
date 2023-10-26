@@ -115,3 +115,16 @@ object HelloWorld extends App {
 
 ![image](https://github.com/luiscoco/Spark_videos/assets/32194879/1b6e0fb3-1361-4f59-8aee-fbc05d5f1128)
 
+## 9. How to run the spark scala application
+
+We right click on the scala code and select the "Run HelloWorld"
+
+![image](https://github.com/luiscoco/Spark_videos/assets/32194879/52d93e7d-dcbc-46be-a92e-c3be43bd9d72)
+
+This is the run output
+
+![image](https://github.com/luiscoco/Spark_videos/assets/32194879/6fc15e60-9cc0-47ac-87cb-acbc917d818d)
+
+Also see the Process finished with exit code 0
+
+![image](https://github.com/luiscoco/Spark_videos/assets/32194879/372ba1e6-4fa1-47a8-9ff1-17e98c55de55)
