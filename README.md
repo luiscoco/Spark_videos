@@ -53,7 +53,7 @@ Then we input the new project data
 
 ![image](https://github.com/luiscoco/Spark_videos/assets/32194879/85117f86-4a8c-4ce6-8683-d241437242b3)
 
-![image](https://github.com/luiscoco/Spark_videos/assets/32194879/a97940f4-72e8-4653-b1af-9af978e2923d)
+![image](https://github.com/luiscoco/Spark_videos/assets/32194879/0149631a-5d52-4a53-b89d-31dfd9371b14)
 
 Press the "sbt" button and also press the button "Reload sbt projects" to load the spark library dependency
 
