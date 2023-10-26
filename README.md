@@ -47,8 +47,13 @@ Then we input the new project data
 
 ![image](https://github.com/luiscoco/Spark_videos/assets/32194879/3d1d8dd3-8cae-4932-bd7c-d4a1038f3903)
 
-## 6.
+## 6. Set the build.sbt file
 
+![image](https://github.com/luiscoco/Spark_videos/assets/32194879/19384a98-1b10-4f21-a55a-0e77890ffaa4)
+
+![image](https://github.com/luiscoco/Spark_videos/assets/32194879/85117f86-4a8c-4ce6-8683-d241437242b3)
+
+![image](https://github.com/luiscoco/Spark_videos/assets/32194879/a97940f4-72e8-4653-b1af-9af978e2923d)
 
 
 
