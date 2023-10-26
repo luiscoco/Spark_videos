@@ -51,7 +51,6 @@ Then we input the new project data
 
 ![image](https://github.com/luiscoco/Spark_videos/assets/32194879/b4b3838e-147a-4111-87df-48c942c79e42)
 
-
 ![image](https://github.com/luiscoco/Spark_videos/assets/32194879/85117f86-4a8c-4ce6-8683-d241437242b3)
 
 ![image](https://github.com/luiscoco/Spark_videos/assets/32194879/a97940f4-72e8-4653-b1af-9af978e2923d)
@@ -59,6 +58,11 @@ Then we input the new project data
 Press the "sbt" button and also press the button "Reload sbt projects" to load the spark library dependency
 
 ![image](https://github.com/luiscoco/Spark_videos/assets/32194879/9b9c99c2-86cb-40e3-b292-3d4ce8bf29df)
+
+We check the project was reloaded with all the dependencies including the new spark dependency
+
+![image](https://github.com/luiscoco/Spark_videos/assets/32194879/e0b101de-e575-423e-9d2a-df91ae7db669)
+
 
 
 
