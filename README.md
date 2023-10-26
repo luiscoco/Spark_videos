@@ -133,7 +133,7 @@ Also see the Process finished with exit code 0
 
 This is the new application source code:
 
-```
+```scala
 package com.luispackage
 
 import org.apache.spark.{SparkConf, SparkContext}
@@ -146,6 +146,12 @@ object HelloWorld extends App {
 ```
 
 ![image](https://github.com/luiscoco/Spark_videos/assets/32194879/6c2f4726-6b70-4b4b-93f9-7a802071e425)
+
+We also create the testFile.txt
+
+![image](https://github.com/luiscoco/Spark_videos/assets/32194879/78f430a9-5d15-41a6-9356-afb401932a39)
+
+Now we run the application
 
 ![image](https://github.com/luiscoco/Spark_videos/assets/32194879/9fe626de-4258-4d71-a7d9-9894aec12ba1)
 
