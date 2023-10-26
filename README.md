@@ -18,6 +18,8 @@ Unzip the "spark-3.5.0-bin-hadoop3.tgz"
 
 ![image](https://github.com/luiscoco/Spark_videos/assets/32194879/17011565-587c-4b1a-98f7-5313cf4b21c2)
 
+![image](https://github.com/luiscoco/Spark_videos/assets/32194879/8353cd13-5d6c-4d72-bf18-337796c3e8ff)
+
 ## 3. Check the spark-shell is installed
 
 ![image](https://github.com/luiscoco/Spark_videos/assets/32194879/e453931d-da41-4204-a750-a8c416121322)
