@@ -1,4 +1,4 @@
-# Spark_videos
+# Spark with IntelliJ Community
 
 https://www.youtube.com/@hackprotech/videos
 
