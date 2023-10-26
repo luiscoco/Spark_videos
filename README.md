@@ -39,8 +39,13 @@ Select "Projects" in the left menu, and then click on the "New Project" button
 
 ![image](https://github.com/luiscoco/Spark_videos/assets/32194879/ffe80d72-07af-4e9b-ba30-e48318482982)
 
+Before we input the new project data, copy Spark version and the Scala Version
 
+![image](https://github.com/luiscoco/Spark_videos/assets/32194879/55573bfe-cf67-4f32-8534-e2c92cc4fcef)
 
+Then we input the new project data
+
+![image](https://github.com/luiscoco/Spark_videos/assets/32194879/3d1d8dd3-8cae-4932-bd7c-d4a1038f3903)
 
 ## 6.
 
