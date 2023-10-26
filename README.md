@@ -12,13 +12,13 @@ Unzip the "spark-3.5.0-bin-hadoop3.tgz"
 
 ![image](https://github.com/luiscoco/Spark_videos/assets/32194879/3bca82b7-b6e9-4124-b3a4-75506da8395a)
 
+![image](https://github.com/luiscoco/Spark_videos/assets/32194879/8353cd13-5d6c-4d72-bf18-337796c3e8ff)
+
 ## 2. Set Spark environmental variable
 
 ![image](https://github.com/luiscoco/Spark_videos/assets/32194879/993e30be-d134-4364-bd56-1135dcf6084a)
 
 ![image](https://github.com/luiscoco/Spark_videos/assets/32194879/17011565-587c-4b1a-98f7-5313cf4b21c2)
-
-![image](https://github.com/luiscoco/Spark_videos/assets/32194879/8353cd13-5d6c-4d72-bf18-337796c3e8ff)
 
 ## 3. Check the spark-shell is installed
 
