@@ -128,3 +128,26 @@ This is the run output
 Also see the Process finished with exit code 0
 
 ![image](https://github.com/luiscoco/Spark_videos/assets/32194879/372ba1e6-4fa1-47a8-9ff1-17e98c55de55)
+
+## 10. Another scala spark application sample
+
+This is the new application source code:
+
+```
+package com.luispackage
+
+import org.apache.spark.{SparkConf, SparkContext}
+
+object HelloWorld extends App {
+  private val sparkContext = new SparkContext(master = "local", appName = "Hello World")
+  private val sourceRDD = sparkContext.textFile(path = "C:\\Users\\luisc\\Downloads\\testFile.txt")
+  sourceRDD.take(num = 10).foreach(println)
+}
+```
+
+![image](https://github.com/luiscoco/Spark_videos/assets/32194879/6c2f4726-6b70-4b4b-93f9-7a802071e425)
+
+![image](https://github.com/luiscoco/Spark_videos/assets/32194879/9fe626de-4258-4d71-a7d9-9894aec12ba1)
+
+![image](https://github.com/luiscoco/Spark_videos/assets/32194879/90d02ea7-382b-41ed-a850-5dd6df7143c4)
+
