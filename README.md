@@ -14,13 +14,13 @@ Unzip the "spark-3.5.0-bin-hadoop3.tgz"
 
 ![image](https://github.com/luiscoco/Spark_videos/assets/32194879/8353cd13-5d6c-4d72-bf18-337796c3e8ff)
 
-## 1. Download Winutils for Hadoop
+## 1. Download winutils for Hadoop
 
 Go to this repository and download it
 
 https://github.com/kontext-tech/winutils
 
-Once downloaded, Unzip the file
+Once downloaded the winutils repository, Unzip the file
 
 ![image](https://github.com/luiscoco/Spark_with_IntelliJ_Community/assets/32194879/466d9fe0-2020-4105-9cef-8e9b1f692f47)
 
@@ -35,6 +35,20 @@ In the following section we have to set the HADOOP_HOME environmental variable
 ![image](https://github.com/luiscoco/Spark_videos/assets/32194879/993e30be-d134-4364-bd56-1135dcf6084a)
 
 ![image](https://github.com/luiscoco/Spark_videos/assets/32194879/17011565-587c-4b1a-98f7-5313cf4b21c2)
+
+## 2. Set Hadoop winutils environmental variable
+
+We navigate to the bin folder where is located the winutils.exe file. This path will be copied later in the HADOOP_HOME environmental variable.
+
+![image](https://github.com/luiscoco/Spark_with_IntelliJ_Community/assets/32194879/e10cd456-b8ca-4498-88bb-dbceff907653)
+
+We create a new environmental variable called HADOOP_HOME and we set the value to the path where is located the bin folder, as explained above
+
+![image](https://github.com/luiscoco/Spark_with_IntelliJ_Community/assets/32194879/7197a63d-e505-4c7d-a5d6-8fe8a8eff432)
+
+We add the path to the winutils.exe file in the PATH environmental variable
+
+![image](https://github.com/luiscoco/Spark_with_IntelliJ_Community/assets/32194879/b4e04093-3d9f-4f6e-9b7e-a61c3b3fc2aa)
 
 ## 3. Check the spark-shell is installed
 
